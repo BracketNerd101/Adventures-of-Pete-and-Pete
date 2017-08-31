@@ -80,9 +80,18 @@ body {
 
 }
 
+.card-action-styles-mini {
+
+     background-color: #ffffff;
+     border-bottom: 1px solid #ff6700;
+     border-top: 1px solid #ff6700;
+     font-size: 0.9rem;
+     text-align: left;
+}
+
 .button-placement {
 
-  margin-left: 1rem;
+  margin-left: 1.3rem;
   height: inherit;
 
 
@@ -90,7 +99,7 @@ body {
 
 #orange-btn-styles {
 
-  font-size: 1.3rem;
+  font-size: 1rem;
   color: #ff6700 !important;
 }
 
@@ -101,7 +110,33 @@ body {
 
 }
 
+#outline-showbutton-style {
+      border-radius: 26px;
+      border: 3px solid #ffffff;
+      color: #ffffff;
+
+}
+
+#outline-showbutton-style2 {
+      border-radius: 24
+      0px;
+      border: 3px solid #ffffff;
+      color: #ffffff;
+      font-size: 4rem;
+
+}
+
+
+
 .mini-episodes {
 
+
+}
+
+
+#banner-button-text {
+
+    font-size: 2.5rem;
+    color: #ffffff;
 
 }
