@@ -5,36 +5,22 @@ body {
   /*-------type styles---------*/
     /* color: #ff6700;   */
 
-
+/*font-family: 'Hind', sans-serif;*/
 
   /*-------type styles---------*/
 }
 
 .introduction-banner {
 
+
+    background-size: cover;
     margin-left: auto;
-    padding-top: 3rem;
     margin-right: auto;
-    margin-top: auto;
+    margin-top: 8rem;
+    height: auto;
     min-width: 100%;
     z-index: -3;
     background-size: cover;
-    width: 100%;
-    height: inherit;
-}
-
-.intro-banner-text {
-
-    color: #ffffff;
-    z-index: 1000;
-    margin-top: -25rem;
-    margin-left: 3rem;
-    margin-bottom: auto;
-    height: inherit;
-    width: 100%;
-    font-family: 'Hind', sans-serif;
-    font-size: 10rem;
-    line-height: 8rem;
 
 }
 
@@ -43,6 +29,39 @@ body {
   display: inline-block;
   vertical-align: middle;
   max-width: 100%;
+  min-height: inherit;
   height: auto;
+
+}
+
+.intro-banner-text {
+
+    color: #ffffff;
+    z-index: 1000;
+    margin-top: -25rem;
+    margin-left: 1rem;
+    margin-bottom: auto;
+    height: inherit;
+    width: 100%;
+    font-family: 'Hind', sans-serif;
+    font-size: 7rem;
+    line-height: 8rem;
+
+}
+.card-action-styles {
+
+   width: 100%;
+   height: inherit;
+
+}
+
+.button-plaement-style {
+
+
+}
+
+.outline-schedule-style {
+      border-radius: 24px;
+      border: 1px solid #ff6700;
 
 }

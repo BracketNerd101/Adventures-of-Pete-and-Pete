@@ -5,7 +5,8 @@ min-height: 2500px;
 
 .title-bar {
 
-  height: 4rem;
+  top: 0;
+  height: 6rem;
   width: 100%;
   color: #ff6700;
   position: fixed;
