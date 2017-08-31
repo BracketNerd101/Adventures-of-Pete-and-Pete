@@ -10,13 +10,14 @@ body {
   /*-------type styles---------*/
 }
 
-.introduction-banner {
+#introduction-banner {
 
 
     background-size: cover;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 8rem;
+    position: relative;
+    margin-top: 5rem;
     height: auto;
     min-width: 100%;
     z-index: -3;
@@ -37,31 +38,70 @@ body {
 .intro-banner-text {
 
     color: #ffffff;
-    z-index: 1000;
+    z-index: 20;
     margin-top: -25rem;
     margin-left: 1rem;
+    padding-top: 2rem;
     margin-bottom: auto;
+    position: absolute;
     height: inherit;
     width: 100%;
     font-family: 'Hind', sans-serif;
-    font-size: 7rem;
-    line-height: 8rem;
+    font-size: 4.8rem;
+    line-height: 6.2rem;
+
+    justify-content: center;
+    align-items: center
+    display: flex;
 
 }
+
+.banner-text {
+
+    height: inherit;
+    position: relative;
+    margin-bottom: auto;
+    display: flex;
+    align-items: center;
+    top: -6rem;
+
+
+
+}
+
+.card {
+  margin-bottom: 0rem;
+}
+
 .card-action-styles {
 
-   width: 100%;
-   height: inherit;
+     background-color: #ffffff;
+     border-bottom: 1px solid #ff6700;
 
 }
 
-.button-plaement-style {
+.button-placement {
+
+  margin-left: 1rem;
+  height: inherit;
 
 
 }
 
-.outline-schedule-style {
-      border-radius: 24px;
+#orange-btn-styles {
+
+  font-size: 1.3rem;
+  color: #ff6700 !important;
+}
+
+#outline-schedule-style {
+      border-radius: 26px;
       border: 1px solid #ff6700;
+      color: #ff6700;
+
+}
+
+.mini-episodes {
+
 
 }
