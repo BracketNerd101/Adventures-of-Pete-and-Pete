@@ -12,7 +12,6 @@ body {
 
 #introduction-banner {
 
-
     background-size: cover;
     margin-left: auto;
     margin-right: auto;
@@ -61,8 +60,6 @@ body {
 
 }
 
-
-
 .banner-text {
 
     height: inherit;
@@ -71,8 +68,6 @@ body {
     display: flex;
     align-items: center;
     top: -6rem;
-
-
 
 }
 
@@ -102,7 +97,6 @@ body {
 
   margin-left: 1.3rem;
   height: inherit;
-
 
 }
 
