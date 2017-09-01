@@ -1,6 +1,6 @@
 body {
 
-  min-height: 2200px;
+  /*min-height: 2200px;*/
 
   /*-------type styles---------*/
     /* color: #ff6700;   */
@@ -47,11 +47,10 @@ body {
     height: inherit;
     width: 100%;
     font-family: 'Hind', sans-serif;
-    font-size: 4.8rem;
+    font-size: 3.5rem;
     line-height: 6.2rem;
-
     justify-content: center;
-    align-items: center
+    align-items: center;
     display: flex;
 
 }
@@ -77,14 +76,15 @@ body {
 
      background-color: #ffffff;
      border-bottom: 1px solid #ff6700;
+     margin-bottom: 12rem;
 
 }
 
 .card-action-styles-mini {
 
      background-color: #ffffff;
-     border-bottom: 1px solid #ff6700;
-     border-top: 1px solid #ff6700;
+     /*border-bottom: 1px solid #ff6700;
+     border-top: 1px solid #ff6700;*/
      font-size: 0.9rem;
      text-align: left;
 }
@@ -125,14 +125,6 @@ body {
       font-size: 4rem;
 
 }
-
-
-
-.mini-episodes {
-
-
-}
-
 
 #banner-button-text {
 
