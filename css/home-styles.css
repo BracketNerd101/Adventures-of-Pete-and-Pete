@@ -35,25 +35,33 @@ body {
 
 }
 
+.classic-cartoon {
+
+  margin-top: 6rem;
+}
+
+
 .intro-banner-text {
 
     color: #ffffff;
     z-index: 20;
-    margin-top: -25rem;
-    margin-left: 1rem;
-    padding-top: 2rem;
+    margin-top: -12rem;
+    /*margin-left: 1rem;*/
+    padding-top: .2rem;
     margin-bottom: auto;
     position: absolute;
     height: inherit;
-    width: 100%;
+    width: inherit;
     font-family: 'Hind', sans-serif;
-    font-size: 3.5rem;
-    line-height: 6.2rem;
+    /*font-size: 3.2rem;*/
+    line-height:4.5rem;
     justify-content: center;
     align-items: center;
     display: flex;
 
 }
+
+
 
 .banner-text {
 
@@ -69,14 +77,15 @@ body {
 }
 
 .card {
-  margin-bottom: 0rem;
+
+      margin-bottom: 0rem;
 }
 
 .card-action-styles {
 
      background-color: #ffffff;
      border-bottom: 1px solid #ff6700;
-     margin-bottom: 12rem;
+     margin-bottom: 5rem;
 
 }
 
@@ -101,9 +110,11 @@ body {
 
   font-size: 1rem;
   color: #ff6700 !important;
+
 }
 
 #outline-schedule-style {
+
       border-radius: 26px;
       border: 1px solid #ff6700;
       color: #ff6700;
@@ -111,6 +122,7 @@ body {
 }
 
 #outline-showbutton-style {
+
       border-radius: 26px;
       border: 3px solid #ffffff;
       color: #ffffff;
@@ -118,8 +130,8 @@ body {
 }
 
 #outline-showbutton-style2 {
-      border-radius: 24
-      0px;
+
+      border-radius: 24px;
       border: 3px solid #ffffff;
       color: #ffffff;
       font-size: 4rem;
