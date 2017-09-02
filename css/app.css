@@ -6,6 +6,8 @@ background: linear-gradient(to right, #F09819, #FF512F); /* W3C, IE 10+/ Edge, F
 
 }
 
+.wow { visibility: hidden; }
+
 .title-bar {
 
   top: 0;
