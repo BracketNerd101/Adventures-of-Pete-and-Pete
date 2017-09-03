@@ -39,6 +39,32 @@ body {
   margin-top: 6rem;
 }
 
+.classic-banner-homepage {
+
+   background-image: url(../img/nick-classics.jpg);
+   background-size: cover;
+   height: 50rem;
+   margin-bottom: 15rem;
+   margin-top: 12rem;
+}
+
+.summer-banner-homepage {
+
+  background-image: url(../img/splash.jpg);
+  background-size: cover;
+  height: 50rem;
+  margin-bottom: 25rem;
+
+}
+
+.newgame-banner-homepage {
+
+  background-image: url(../img/mystery-ball.jpg);
+  background-size: cover;
+  height: 50rem;
+  margin-bottom: 15rem;
+
+}
 
 .intro-banner-text {
 
@@ -48,7 +74,6 @@ body {
     /*margin-left: 1rem;*/
     padding-top: .2rem;
     margin-bottom: auto;
-    position: absolute;
     height: inherit;
     width: inherit;
     font-family: 'Hind', sans-serif;
@@ -60,10 +85,13 @@ body {
 
 }
 
+.text-bg {
+  background: rgba(255,103,0,0.6) ;
+}
+
 .banner-text {
 
     height: inherit;
-    position: relative;
     margin-bottom: auto;
     display: flex;
     align-items: center;
@@ -80,7 +108,8 @@ body {
 
      background-color: #ffffff;
      border-bottom: 1px solid #ff6700;
-     margin-bottom: 5rem;
+     margin-bottom: auto;
+     margin-top: auto;
 
 }
 
@@ -94,9 +123,10 @@ body {
 }
 
 .button-placement {
-
-  margin-left: 1.3rem;
+  margin-top: 1rem;
+  margin-left: 2.3rem;
   height: inherit;
+  margin-bottom: auto;
 
 }
 

@@ -21,17 +21,18 @@ background: linear-gradient(to right, #F09819, #FF512F); /* W3C, IE 10+/ Edge, F
 }
 
 .title-bar-title {
+  margin-top: 4.8rem;
 
 }
 
 .menu-logo {
-  top: 1rem;
+  top: 2.7rem;
 
 }
 
 .logo-style {
 
-   width: 140px;
+   width: 420px;
    position: relative;
 
 
@@ -69,7 +70,7 @@ margin-top: 4rem;
     justify-content: flex-start;
     align-items: flex-end;
     align-self: center;
-    margin-top: : 1rem;
+    margin-top: : 1.7rem;
 
 }
 
