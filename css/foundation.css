@@ -1198,12 +1198,12 @@ select {
   line-height: 1;
   text-align: center;
   cursor: pointer;
-  background-color: #2ba6cb;
+  background-color: #1e90ff ;
   color: #fefefe; }
   [data-whatinput='mouse'] .button {
     outline: 0; }
   .button:hover, .button:focus {
-    background-color: #258dad;
+    background-color: #1e90f2 ;
     color: #fefefe; }
   .button.tiny {
     font-size: 0.6rem; }
